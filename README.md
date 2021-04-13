@@ -1,1 +1,1 @@
-![ScreenShot](./img/screenshots/screenshot.gif)
+![ScreenShot](./img/screenshots/screenshot-1.gif)
