@@ -1,0 +1,16 @@
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.carousel-caption {
+    background-image: url("/img/Bill\ Bowerman\ and\ the\ Birth\ of\ Visible\ Innovation.jpeg");
+}
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
