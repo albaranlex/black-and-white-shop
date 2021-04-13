@@ -8,6 +8,18 @@ body {
   img {
      object-fit: cover;
   }
+
+  .logo-text {
+    color: white;
+    font-size: 12px;
+    font-weight: 100;
+  }
+
+  .navbar-brand {
+    font-size: 30px;
+    text-decoration: underline;
+
+  }
   
   /* CUSTOMIZE THE CAROUSEL
   -------------------------------------------------- */
